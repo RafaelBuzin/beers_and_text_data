@@ -1,0 +1,501 @@
+beer_id,brewer,beer_name,abv
+1,Rahr &amp; Sons Brewing Company,Stormcloud IPA,6
+2,Matt Brewing Company / Saranac Brewery,Saranac Legacy IPA,6.5
+3,Matt Brewing Company / Saranac Brewery,Saranac Rye IPA,5.95
+4,Matt Brewing Company / Saranac Brewery,Saranac India Pale Ale,5.8
+5,Zero Gravity Craft Brewery / American Flatbread,Conehead IPA,5.7
+6,Short's Brewing Company,Hopstache,6.8
+7,Short's Brewing Company,Freedom Of 78,7
+8,Short's Brewing Company,ControversiALE,6.5
+9,Short's Brewing Company,Shorts Huma Lupa Licious India Pale Ale,7.7
+10,Magic Hat Brewing Company,HiPA,6.7
+11,Magic Hat Brewing Company,Ticket To Rye IPA,7.1
+12,Magic Hat Brewing Company,Encore,6.4
+13,Magic Hat Brewing Company,Lucky Kat,5.8
+14,Magic Hat Brewing Company,Electric Peel Grapefruit IPA,6
+15,Long Trail Brewing Co.,Green Blaze IPA,6.5
+16,No-Li Brewhouse,Born amp Raised IPA,7
+17,Ska Brewing Co.,Modus Hoperandi,6.8
+18,Ska Brewing Co.,Modus Mandarina,6.8
+19,Heavy Seas Beer,Loose Cannon,7.25
+20,Heavy Seas Beer,TropiCannon Citrus IPA,7.25
+21,Heavy Seas Beer,CrossBones Session IPA,4.5
+22,Moylan's Brewery,India Pale Ale,6.5
+23,Atlanta Brewing Company,Red Brick Hoplanta,6.7
+24,Russian River Brewing Company,Happy Hops,6.5
+25,Russian River Brewing Company,Blind Pig IPA,6.25
+26,Widmer Brothers Brewing Company,ORyely IPA,6.4
+27,Widmer Brothers Brewing Company,Falconers IPA,7
+28,Widmer Brothers Brewing Company,Upheaval IPA,7
+29,Tyranena Brewing Company,Bitter Woman India Pale Ale,5.75
+30,Tyranena Brewing Company,Scurvy,6.5
+31,Olde Hickory Brewery,Death By Hops,7
+32,Amsterdam Brewing Company,Amsterdam Boneshaker IPA,7.1
+33,Blue Point Brewing Company,Hoptical Illusion,7
+34,Blue Point Brewing Company,Mosaic Session IPA,4.8
+35,Erie Brewing Co.,Misery Bay IPA,6.5
+36,Big Sky Brewing Company,Big Sky IPA,6.2
+37,Lancaster Brewing Company,Hop Hog India Pale Ale,7
+38,"Lakefront Brewery, Inc.",IPA,6.9
+39,21st Amendment Brewery,Brew Free Or Die IPA,7
+40,21st Amendment Brewery,Down To Earth Session IPA,4.4
+41,Great Lakes Brewing Co.,Rye Of The Tiger,7.5
+42,Blitz-Weinhard Brewing Co.,Henry Weinhards Woodland Pass IPA,6
+43,Elysian Brewing Company,Savant,6.3
+44,Elysian Brewing Company,Avatar Jasmine IPA,6.3
+45,Elysian Brewing Company,The Immortal IPA,6.3
+46,Elysian Brewing Company,Dayglow IPA,7.4
+47,Keegan Ales,Hurricane Kitty,5.5
+48,Thomas Hooker Brewing Company,Hop Meadow IPA,6.4
+49,Tröegs Brewing Company,Perpetual IPA,7.5
+50,Tröegs Brewing Company,First Cut IPA,6.2
+51,Tröegs Brewing Company,Blizzard Of Hops,6.4
+52,Tröegs Brewing Company,Hop Knife Harvest Ale,6.2
+53,Two Brothers Brewing Company,Resistance IPA,6.9
+54,Two Brothers Brewing Company,Heavy Handed IPA,6.7
+55,Two Brothers Brewing Company,Wobble,6.3
+56,Fish Brewing Company / Fishbowl Brewpub,Fish Tale India Pale Ale,6.5
+57,Flying Dog Brewery,Easy IPA,4.7
+58,Flying Dog Brewery,Bloodline Blood Orange Ale,7
+59,Flying Dog Brewery,Snake Dog IPA,7.1
+60,Muskoka Brewery,Muskoka Mad Tom IPA,6.4
+61,Ithaca Beer Company,Flower Power India Pale Ale,7.2
+62,Ithaca Beer Company,Green Trail India Pale Ale,6
+63,Dogfish Head Craft Brewery,SixtyOne 61,6.5
+64,Dogfish Head Craft Brewery,60 Minute IPA,6
+65,Dogfish Head Craft Brewery,ApriHop,7
+66,Dogfish Head Craft Brewery,LupuLuau IPA,7.3
+67,Dogfish Head Craft Brewery,Liquid Truth Serum,7
+68,Dogfish Head Craft Brewery,Flesh amp Blood IPA,7.5
+69,Dogfish Head Craft Brewery,Romantic Chemistry,7.2
+70,Dogfish Head Craft Brewery,75 Minute IPA,7.5
+71,Deschutes Brewery,Pinedrops IPA,6.5
+72,Deschutes Brewery,Fresh Squeezed IPA,6.4
+73,Deschutes Brewery,Inversion IPA,6.8
+74,Deschutes Brewery,Hopzeit Autumn IPA,7
+75,Deschutes Brewery,Hop Slice Summer Ale,5
+76,Bear Republic Brewing Co.,Hop Rod Rye,8
+77,Bear Republic Brewing Co.,Racer 5 India Pale Ale,7.5
+78,Bear Republic Brewing Co.,Hop Shovel,7.5
+79,Cottrell Brewing Co.,Mystic Bridge IPA,6
+80,Church Brew Works,Thunderhop IPA,6
+81,The Schlafly Tap Room,Tasmanian IPA TIPA,7.2
+82,The Schlafly Tap Room,American IPA,7.2
+83,Kona Brewing Co.,Castaway IPA,6
+84,Kona Brewing Co.,Hanalei Island IPA,4.5
+85,Steinhaus Brewing Co.,Mission St India Pale Ale,6.1
+86,Speakeasy Ales &amp; Lagers,Big Daddy IPA,6.5
+87,Full Sail Brewing Company,Full Sail IPA,6
+88,Full Sail Brewing Company,Wreck The Halls,6.5
+89,Tampa Bay Brewing Co.,Old Elephant Foot IPA,7
+90,Summit Brewing Company,Sága IPA,6.4
+91,The Alchemist,Alena,7.7
+92,The Alchemist,Holy Cow,5.1
+93,Real Ale Brewing Company,Lost Gold IPA,6.6
+94,Yards Brewing Co.,India Pale Ale,7
+95,Brooklyn Brewery,Defender IPA,5.5
+96,Pabst Brewing Company,Ballantine India Pale Ale,7.2
+97,Georgetown Brewing Company,Lucille IPA,7.2
+98,Minhas Craft Brewery,Boatswain American IPA,6.7
+99,Alaskan Brewing Co.,Alaskan Icy Bay IPA,6.2
+100,Boulevard Brewing Co.,PopUp Session IPA,4.3
+101,Boulevard Brewing Co.,MidCoast IPA,5.6
+102,Boulevard Brewing Co.,SingleWide IPA,5.7
+103,Boulevard Brewing Co.,Heavy Lifting India Pale Ale,6.2
+104,Brewery Ommegang,Nirvana IPA,6.5
+105,Left Hand Brewing Company,Warrior IPA,7.6
+106,Karl Strauss Brewing Company,Tower 10 IPA,6.5
+107,"Pyramid Breweries, Inc.",Thunderhead IPA,6.7
+108,Lord Hobo Brewing Company,Steal This Can,6.5
+109,AleSmith Brewing Company,IPA,7.25
+110,Weyerbacher Brewing Co.,Last Chance IPA,5.9
+111,WarPigs Brewpub,Foggy Geezer,6.8
+112,WarPigs Brewpub,Lazurite,7.5
+113,Midnight Sun Brewing Co.,Sockeye Red India Pale Ale,5.7
+114,Drake's Brewing Co.,Aroma Coma,6.7
+115,Drake's Brewing Co.,Best Coast IPA,7
+116,Southern Tier Brewing Company,IPA India Pale Ale,7
+117,Southern Tier Brewing Company,Nu Skool IPA,6
+118,Southern Tier Brewing Company,RightOWay IPA,4.5
+119,Southern Tier Brewing Company,Tangier India Pale Ale,4.6
+120,Pike Brewing Company,Pike India Pale Ale,6.5
+121,New England Brewing Co.,Supernaut IPA,5.8
+122,New England Brewing Co.,Sea Hag IPA,6.2
+123,Cycle Brewing,Crank IPA,7
+124,Boston Beer Company (Samuel Adams),Juniper IPA,5.8
+125,Boston Beer Company (Samuel Adams),Samuel Adams Rebel IPA,6.5
+126,Boston Beer Company (Samuel Adams),Samuel Adams Latitude 48 Deconstructed IPA  Mosaic 2013,6
+127,Boston Beer Company (Samuel Adams),Samuel Adams Whitewater IPA,5.8
+128,Boston Beer Company (Samuel Adams),Tasman Red IPA,6.75
+129,Boston Beer Company (Samuel Adams),Samuel Adams Latitude 48 Deconstructed IPA  Hallertau Mittelfrueh,6
+130,Boston Beer Company (Samuel Adams),Samuel Adams Latitude 48 IPA,6
+131,Boston Beer Company (Samuel Adams),Samuel Adams Rebel Juiced IPA,6.2
+132,Boston Beer Company (Samuel Adams),Samuel Adams Rebel Grapefruit IPA,6.3
+133,Boston Beer Company (Samuel Adams),Samuel Adams Rebel Rider Session IPA,4.5
+134,Victory Brewing Company - Downingtown,Victory Harvest Ale,6.5
+135,Victory Brewing Company - Downingtown,Vital IPA,6.5
+136,Victory Brewing Company - Downingtown,Hop Wallop,7.5
+137,Victory Brewing Company - Downingtown,HopDevil India Pale Ale,6.7
+138,Foundation Brewing Company,Afterglow,7
+139,Stoneface Brewing Co.,Stoneface IPA,7.2
+140,Columbus Brewing Company,IPA,6.3
+141,Funk Brewing Company,Citrus IPA,6.9
+142,Saint Arnold Brewing Company,Art Car IPA,7.2
+143,Saint Arnold Brewing Company,Elissa IPA,7.1
+144,Other Half Brewing Co.,Forever Ever,4.7
+145,Other Half Brewing Co.,Hop Showers,7.4
+146,Other Half Brewing Co.,Other Half IPA,7.1
+147,New Holland Brewing Company,Mad Hatter  OakAged,7.12
+148,The Unknown Brewing Co.,Over The Edge,6.9
+149,Brew Bus Brewing,Last Stop India Pale Ale,7.2
+150,Coppertail Brewing Co.,Freedive IPA,5.9
+151,Collective Arts Brewing,Ransack the Universe  Hemisphere IPA,6.8
+152,O'Fallon Brewery,5Day IPA,6.1
+153,Wiseacre Brewing,Ananda IPA,6.1
+154,Jekyll Brewing,Hop Dang Diggity Southern IPA,6.7
+155,Griffin Claw Brewing Company,Norms Raggedy Ass IPA,7.2
+156,Rhinegeist Brewery,Truth,7.2
+157,Modern Times Beer,City Of The Sun,7.6
+158,Modern Times Beer,Booming Rollers,6.8
+159,Modern Times Beer,Orderville,7.2
+160,The Tap Brewing Company,Leather Lips IPA,5
+161,RAR Brewing (Realerevival),Nanticoke Nectar,7.4
+162,Funky Buddha Brewery,More Moro Blood Orange IPA,7
+163,Funky Buddha Brewery,Hop Gun,7
+164,Burial Beer Co.,Surf Wax,6.8
+165,Brothers Craft Brewing,Hoptimization IPA,7.1
+166,Newburyport Brewing Company,Newburyport Green Head IPA,7.2
+167,Saint Archer Brewing Co.,Saint Archer IPA,7
+168,Bale Breaker Brewing Company,Topcutter,6.8
+169,Bent Paddle Brewing Co.,Bent Hop  Golden IPA,6.2
+170,Siren Craft Brew,Limoncello IPA,9.1
+171,Alpine Beer Company,Hoppy Birthday,5.3
+172,Alpine Beer Company,Nelson,7
+173,Alpine Beer Company,Duet,7
+174,Alpine Beer Company,Windows Up,7
+175,MadTree Brewing,PsycHOPathy,6.9
+176,Community Beer Company,Mosaic IPA,8.6
+177,Parkway Brewing Co.,Get Bent Mountain IPA,7.2
+178,Karben4 Brewing,Fantasy Factory,6.3
+179,Coors Brewing Company (Molson-Coors),Blue Moon White IPA,5.9
+180,Wicked Weed Brewing,Pernicious IPA,7.3
+181,Foley Brothers Brewing,Citrennial,6.9
+182,Spiteful Brewing,Spiteful IPA,6.2
+183,Two Roads Brewing Company,Honeyspot Road IPA,6
+184,Two Roads Brewing Company,Lil Heaven,4.8
+185,Champion Brewing Company,Missile IPA,7
+186,The Lone Pint Brewery,Yellow Rose,6.8
+187,Foolproof Brewing Company,Backyahd,6
+188,Genesee Brewing Co. / Dundee Brewing Co.,Dundee India Pale Ale,6.3
+189,Sloop Brewing,Juice Bomb,6.5
+190,Avery Brewing Company,India Pale Ale IPA,6.5
+191,Abita Brewing Co.,Spring IPA,6.2
+192,Abita Brewing Co.,Jockamo IPA,6.5
+193,Abita Brewing Co.,Wrought Iron IPA,6.9
+194,Perrin Brewing Co.,Grapefruit IPA,4.7
+195,Cedar Creek Brewery,Dankosaurus,6.8
+196,Crux Fermentation Project,Cast Out,8
+197,Indeed Brewing Company,Let It Ride,6.8
+198,Neshaminy Creek Brewing Company,County Line IPA,6.6
+199,Gigantic Brewing Company,Gigantic IPA,7.3
+200,Societe Brewing Co.,The Pupil,7.5
+201,Societe Brewing Co.,The Apprentice,7.2
+202,Solemn Oath Brewery,Snaggletooth Bandana,6.5
+203,Utah Brewers Cooperative,Squatters IPA,6
+204,West Sixth Brewing Company,West Sixth IPA,7
+205,Bell's Brewery - Eccentric Café &amp; General Store,Two Hearted Ale,7
+206,Night Shift Brewing,Santilli,6
+207,Pipeworks Brewing Company,Lil Citra,4.9
+208,Free Will Brewing Co.,Techno IPA,7.3
+209,Anchor Brewing Company,Anchor Liberty Ale,5.9
+210,Anchor Brewing Company,Go West IPA,6.7
+211,Anchor Brewing Company,Anchor IPA,6.5
+212,Fiddlehead Brewing Company,Fiddlehead IPA,6.2
+213,4 Hands Brewing Co.,Divided Sky Rye IPA,6.5
+214,4 Hands Brewing Co.,Super Flare,6.5
+215,Green Flash Brewing Co.,Hop Odyssey Citra Session IPA,4.5
+216,Green Flash Brewing Co.,Tangerine Soul Style IPA,6.5
+217,Green Flash Brewing Co.,Hop Odyssey Mosaic Session India Pale Ale,4.5
+218,Green Flash Brewing Co.,Jibe Session IPA,4
+219,Green Flash Brewing Co.,Soul Style IPA,6.8
+220,Deep Ellum Brewing Company,Deep Ellum IPA,7
+221,SweetWater Brewing Company,Sweetwater LowRYEder IPA,6.2
+222,SweetWater Brewing Company,420 Strain G13 IPA,6
+223,SweetWater Brewing Company,Goin Coastal,6.1
+224,SweetWater Brewing Company,Sweetwater IPA,6.3
+225,Due South Brewing Co.,Category 3 IPA,6.1
+226,Triton Brewing Company,Railsplitter IPA,7
+227,Somerville Brewing Company (Slumbrew),Slumbrew Flagraiser IPA,7.5
+228,NoDa Brewing Company,Hop Drop n Roll,7.2
+229,Golden Road Brewing,Point The Way,5.9
+230,Golden Road Brewing,Wolf Pup,4.5
+231,Carton Brewing Company,IDIPA,7
+232,Oskar Blues Grill &amp; Brew,Deviant Dales IPA,8
+233,Oskar Blues Grill &amp; Brew,IPA,6.43
+234,Oskar Blues Grill &amp; Brew,Pinner,4.9
+235,Red Hare Brewing Company,Gangway IPA,6.2
+236,Karbach Brewing Co.,Hopadillo IPA,6.6
+237,Hardywood Park Craft Brewery,The Great Return,7.5
+238,Odell Brewing Company,IPA,7
+239,Kane Brewing Company,Head High,6.6
+240,Steel Toe Brewing,Size 7,7
+241,Shmaltz Brewing Company,Hebrew Hop Manna IPA,6.8
+242,Cisco Brewers Inc.,Indie Pale Ale,6.5
+243,3 Floyds Brewing Co.,Broo Doo,7
+244,3 Floyds Brewing Co.,Necron 99,7.3
+245,3 Floyds Brewing Co.,LazerSnake,7
+246,GoodLife Brewing Company &amp; Bier Hall,Descender IPA,7
+247,Beachwood BBQ &amp; Brewing,Amalgamator,7.1
+248,Beachwood BBQ &amp; Brewing,Citraholic,7.1
+249,Beachwood BBQ &amp; Brewing,Thrillseeker IPA,7
+250,Beachwood BBQ &amp; Brewing,Melrose IPA,7.2
+251,Greenbush Brewing Company,Dunegräs,6.7
+252,Greenbush Brewing Company,Starchicken Shot Gun,6.8
+253,El Segundo Brewing Company,Mayberry,7.2
+254,Lost Rhino Brewing Company,Face Plant IPA,6.2
+255,Austin Beerworks,Fire Eagle IPA,6.2
+256,Lost Coast Brewery and Cafe,Indica India Pale Ale,6.5
+257,Finch Beer Co.,Threadless IPA,6
+258,DC Brau Brewing Co.,The Corruption,6.5
+259,Crooked Stave Artisan Beer Project,Hop Savant,6.7
+260,Blackrocks Brewery,51K IPA,7
+261,Almanac Beer Co.,Almanac IPA,7.5
+262,Tap It Brewing Co.,Tap It IPA,7
+263,Port City Brewing,Monumental IPA,6.3
+264,The Brew Kettle Taproom &amp; Smokehouse / Production Works,White Rajah,6.8
+265,La Cumbre Brewing Co.,Elevated IPA,7.2
+266,La Cumbre Brewing Co.,Project Dank,7.5
+267,Figueroa Mountain Brewing Co.,Hoppy Poppy IPA,6.5
+268,Thomas Creek Brewery,Class Five IPA,5.5
+269,Coronado Brewing Company,Islander IPA,7
+270,Intuition Ale Works,I10 IPA,6.75
+271,Flat 12 Bierwerks,Half Cycle IPA,6
+272,Three Heads Brewing,The Kind IPA,6.8
+273,Evil Twin Brewing,Falco,7
+274,Evil Twin Brewing,Bikini Beer,2.7
+275,Evil Twin Brewing,Citra Sunshine Slacker,4.5
+276,Westbrook Brewing Co.,India Pale Ale,6.8
+277,Melvin Brewing / Thai Me Up,Melvin IPA,7.5
+278,Jester King Brewery,Wytchmaker Farmhouse Rye IPA,7.3
+279,Sebago Brewing Company,Fryes Leap IPA,6
+280,Baxter Brewing Co.,Stowaway IPA,6.9
+281,Terrapin Beer Company,So Fresh amp So Green Green,6.6
+282,Terrapin Beer Company,Hopsecutioner,7.3
+283,Terrapin Beer Company,The Walking Dead  Blood Orange IPA,7.7
+284,Terrapin Beer Company,Tangerine Dreamsicle,6.5
+285,Terrapin Beer Company,UpHi IPA,5.9
+286,Terrapin Beer Company,Mosaic Red Rye IPA,6.3
+287,Rising Tide Brewing Company,Zephyr,7.2
+288,Toppling Goliath Brewing Company,Pompeii,6.2
+289,Toppling Goliath Brewing Company,Intergalactic Warrior,5.8
+290,Toppling Goliath Brewing Company,1492 IPA,6
+291,Toppling Goliath Brewing Company,ZeeLander,5.5
+292,Toppling Goliath Brewing Company,Golden Nugget IPA,6.8
+293,Knee Deep Brewing Company,Breaking Bud,6.5
+294,Boneyard Beer Company,RPM IPA,7.5
+295,Twisted Pine Brewing Company,Twisted Pine Hoppy Boy IPA,6
+296,Barrier Brewing Company,Money,7.3
+297,Epic Brewing Company,Escape To Colorado,6.2
+298,Epic Brewing Company,Spiral Jetty,6.6
+299,Full Pint Brewing Company,Chinookie IPA,7.1
+300,Breakside Brewery,Breakside IPA,6.8
+301,Breakside Brewery,Wanderlust,6.6
+302,Notch Brewing,Notch Left Of The Dial,4.3
+303,Straight To Ale,Monkeynaut IPA,7.25
+304,8 Wired Brewing Co.,Hopwired,7.3
+305,Mother Earth Brew Co.,Boo Koo IPA,6.5
+306,Wormtown Brewery,Be Hoppy,6.5
+307,Fulton Beer,300 Mosaic India Pale Ale,7
+308,Firestone Walker Brewing Co.,Union Jack IPA,7
+309,Firestone Walker Brewing Co.,Easy Jack,4
+310,Revolution Brewing,CrystalHero,7.2
+311,Revolution Brewing,GalaxyHero India Pale Ale,7
+312,Revolution Brewing,AntiHero IPA,6.7
+313,Revolution Brewing,MosaicHero India Pale Ale,7.5
+314,Revolution Brewing,CitraHero,7.5
+315,Lagunitas Brewing Company,Lagunitas IPA,6.2
+316,Lagunitas Brewing Company,DayTime,4
+317,Four Peaks Brewing Company - 8th Street Brewery,Hop Knot,6.7
+318,Hop City Brewing Co.,HopBot IPA,7.1
+319,North Peak Brewing Company,Diabolical India Pale Ale,6.66
+320,Breckenridge Brewery,Lucky U IPA,5.7
+321,Mother Earth Brewing,Sisters Of The Moon,6.9
+322,Swamp Head Brewery,Big Nose IPA,7.5
+323,Maine Beer Company,Another One,7
+324,Maine Beer Company,Lunch,7
+325,Maine Beer Company,Woods amp Waters,6.2
+326,Maine Beer Company,Hop Program  Beer I,6.5
+327,Fremont Brewing Company,Interurban IPA,6.2
+328,Fremont Brewing Company,Lush IPA,7
+329,Sun King Brewing Company,Grapefruit Jungle GFJ,7.5
+330,Buffalo Bill's Brewery,Alimony Ale,6.8
+331,White Birch Brewing,Hop Session India Pale Ale,5
+332,Mendocino Brewing Company,White Hawk Select IPA,7
+333,Wachusett Brewing Company,Green Monsta IPA,6.1
+334,Ballast Point Brewing Company,Sculpin  Grapefruit,7
+335,Ballast Point Brewing Company,Big Eye,7
+336,Ballast Point Brewing Company,Sculpin  Habanero,7
+337,Ballast Point Brewing Company,Sculpin  Aloha,7
+338,Ballast Point Brewing Company,Fathom IPA,6
+339,Ballast Point Brewing Company,Sculpin,7
+340,Ballast Point Brewing Company,Sculpin  Unfiltered,7
+341,Ballast Point Brewing Company,Mango Even Keel,3.8
+342,Ballast Point Brewing Company,Sculpin  Pineapple,7
+343,Evolution Craft Brewing Company,Lot 3 IPA,6.8
+344,Black Raven Brewing Co.,Trickster IPA,6.8
+345,Fat Head's Brewery &amp; Saloon,Sunshine Daydream Session IPA,4.9
+346,Fat Head's Brewery &amp; Saloon,Head Hunter,7.5
+347,Fat Head's Brewery &amp; Saloon,Hop Stalker Fresh Hop IPA,7.5
+348,COOP Ale Works,F5 IPA,7.1
+349,Hop Valley Brewing Company,Citrus Mistress,6.3
+350,Hop Valley Brewing Company,Alphadelic IPA,7.2
+351,Anderson Valley Brewing Company,Hop Ottin IPA,7
+352,DuClaw Brewing Company,HellRazer,7.5
+353,DuClaw Brewing Company,Neon Gypsy,6.5
+354,New Belgium Brewing,The Hemperor,7
+355,New Belgium Brewing,Voodoo Ranger IPA,7
+356,New Belgium Brewing,Citradelic Tangerine IPA,6
+357,New Belgium Brewing,Slow Ride Session IPA,4.5
+358,Lake Placid Craft Brewing Company,Lake Placid India Pale Ale,6.8
+359,Driftwood Brewery,Fat Tug IPA,7
+360,New Orleans Lager &amp; Ale Brewing Company (NOLA),Hopitoulas IPA,6
+361,Aviator Brewing Company,HogWild IPA,6.7
+362,Upslope Brewing Company - Lee Hill,India Pale Ale,7.2
+363,Lift Bridge Brewery,Hop Dish IPA,7.5
+364,Devils Backbone Brewing Company,Eight Point IPA,6.2
+365,Sly Fox Brewing Company,Route 113 IPA,7
+366,Peekskill Brewery,Eastern Standard IPA,6.6
+367,Redhook Ale Brewery,Redhook Long Hammer IPA,6.2
+368,Half Acre Beer Company,Beer Hates Astronauts,7.5
+369,Half Acre Beer Company,Vallejo,6.7
+370,Half Acre Beer Company,Space,7
+371,Half Acre Beer Company,GoneAway IPA,7
+372,Cigar City Brewing,Homefront IPA,6
+373,Cigar City Brewing,Jai Alai IPA  White Oak,7.5
+374,Cigar City Brewing,Jai Alai IPA  Cedar Aged Humidor Series,7.5
+375,Cigar City Brewing,Jai Alai IPA,7.5
+376,Cigar City Brewing,Humidor Series India Pale Ale,7.5
+377,Lawson's Finest Liquids,Spring Fever Session IPA,3.8
+378,Lawson's Finest Liquids,Triple Play IPA,7
+379,Lawson's Finest Liquids,Chinookerd,6.5
+380,Lawson's Finest Liquids,Super Session 8,4.8
+381,Lawson's Finest Liquids,Super Session 2,4.8
+382,Humboldt Brewing Co.,Nectar IPA,6.7
+383,Snake River Brewing Company &amp; Brewpub,Pakos IPA,6.8
+384,(512) Brewing Company,512 IPA,7.2
+385,Horny Goat Brewing Co.,Horny Goat Hopped Up And Horny,5.5
+386,Good People Brewing Company,IPA,7.2
+387,Marble Brewery,Marble IPA,6.8
+388,10 Barrel Brewing Co.,Apocalypse IPA,6.8
+389,10 Barrel Brewing Co.,Joe IPA,6.9
+390,Hangar 24 Brewing,Betty,6.5
+391,Santa Fe Brewing Company,Happy Camper IPA,6.6
+392,Spring House Brewing Company,The Astounding SheMonster,7
+393,Nebraska Brewing Company,India Pale Ale,6.9
+394,Mission Brewery,Mission IPA,6.8
+395,O'so Brewing Company &amp; Tap House,Hop Whoopin,7
+396,SanTan Brewing Co.,HopShock IPA,7.1
+397,COAST Brewing Company,HopArt IPA,7.7
+398,Hopworks Urban Brewery,Abominable Winter Ale,7.3
+399,Hopworks Urban Brewery,Hopworks IPA,6.6
+400,BrewDog,Jack Hammer,7.2
+401,BrewDog,Punk IPA,5.6
+402,BrewDog,Elvis Juice,6.5
+403,Laurelwood Public House &amp; Brewery,Workhorse IPA,7.5
+404,Southampton Publick House,Southampton IPA,6.5
+405,Eel River Brewing Co.,Organic West Coast IPA,7.2
+406,Ipswich Ale Brewery,Ipswich India Pale Ale IPA,6.5
+407,Mayflower Brewing Company,Mayflower IPA,6.1
+408,Fort George Brewery + Public House,Vortex IPA,7.7
+409,Oakshire Brewing,Watershed IPA,6.7
+410,Maui Brewing Co.,Big Swell IPA,6.8
+411,Great Divide Brewing Company,Rumble IPA,7.1
+412,Great Divide Brewing Company,Titan IPA,7.1
+413,Great Divide Brewing Company,Lasso,5
+414,Tommyknocker Brewery,Pick Axe IPA,6.2
+415,Atwater Brewery,Atwater Grand Circus IPA,4.2
+416,Hoppin' Frog Brewery,Gangster Frog,7.5
+417,Hoppin' Frog Brewery,Hoppin To Heaven IPA,6.8
+418,Belhaven Brewery Company Ltd.,Belhaven Twisted Thistle IPA,6.1
+419,Dark Horse Brewing Company,Crooked Tree IPA,6.5
+420,Stone Brewing,IPA,6.9
+421,Stone Brewing,Scorpion Bowl IPA,7.5
+422,Stone Brewing,Vengeful Spirit,7.3
+423,Stone Brewing,Ghost Hammer IPA,6.7
+424,Stone Brewing,Tangerine Express IPA,6.7
+425,Stone Brewing,Go To IPA,4.8
+426,Stone Brewing,Delicious IPA,7.7
+427,Arbor Brewing Company,Sacred Cow IPA,6.8
+428,Ninkasi Brewing Company,Maiden The Shade,6.8
+429,Ninkasi Brewing Company,Total Domination IPA,6.7
+430,Jackie O's Pub &amp; Brewery,Hop Ryot,6.5
+431,Jackie O's Pub &amp; Brewery,Mystic Mama,7
+432,Spoetzl Brewery / Shiner,Wicked Ram IPA,6
+433,Uinta Brewing Company,Hop Nosh IPA,7.3
+434,Uinta Brewing Company,Tangerine Hop Nosh IPA,7.3
+435,Smuttynose Brewing Company,Smuttynose Stone Clusters Last Stand,8.3
+436,Smuttynose Brewing Company,Smuttynose IPA Finest Kind,6.9
+437,Kern River Brewing Company,Just Outstanding IPA,6.8
+438,Sierra Nevada Brewing Co.,Northern Hemisphere Harvest Wet Hop IPA,6.7
+439,Sierra Nevada Brewing Co.,Estate Homegrown Wet Hop Ale,6.7
+440,Sierra Nevada Brewing Co.,Southern Hemisphere Harvest Fresh Hop IPA,6.7
+441,Sierra Nevada Brewing Co.,Torpedo Extra IPA,7.2
+442,Sierra Nevada Brewing Co.,Tropical Torpedo Tropical IPA,6.7
+443,Sierra Nevada Brewing Co.,Five Hop IPA,5.8
+444,Sierra Nevada Brewing Co.,Celebration Fresh Hop IPA,6.8
+445,Sierra Nevada Brewing Co.,Hop Hunter,6.2
+446,Sierra Nevada Brewing Co.,Harvest Wild Hop IPA  Neomexicanus Varietal,6.5
+447,Cambridge Brewing Company,Flower Child IPA,6.5
+448,Peak Organic Brewing Company,Peak Organic IPA,7.2
+449,Port Brewing,High Tide Fresh Hop IPA,6.5
+450,Port Brewing,Wipeout IPA,7.5
+451,Ale Asylum,Ballistic IPA,7.4
+452,Ale Asylum,Velveteen Habit,7.5
+453,Starr Hill Brewery,Northern Lights IPA,6.2
+454,Voodoo Brewery,Good Vibes,7.3
+455,Pizza Port Solana Beach,Swamis IPA,6.8
+456,Pizza Port Solana Beach,Ponto SIPA Sessionable India Pale Ale,4.5
+457,Appalachian Brewing Company,Hoppy Trails IPA,6
+458,Mikkeller ApS,Koppi Coffee IPA,6.9
+459,Mikkeller ApS,Green Gold,7
+460,Mikkeller ApS,Simcoe Single Hop IPA,6.9
+461,Mikkeller ApS,Better Half,6.8
+462,Butternuts Beer &amp; Ale,Snapperhead IPA,6.8
+463,Rogue Ales,Yellow Snow IPA,6.5
+464,Rogue Ales,Cold Brew IPA,7.5
+465,Rogue Ales,Rogue Farms 7 Hop IPA,7.77
+466,Surly Brewing Company,Overrated West Coast Style IPA,7.3
+467,Surly Brewing Company,Wet,6.1
+468,Surly Brewing Company,Furious,6.7
+469,Surly Brewing Company,Todd The Axe Man,7.2
+470,Boulder Beer / Wilderness Pub,Mojo IPA,7.2
+471,Laughing Dog Brewing,Laughing Dog Rocket Dog Rye IPA,6.9
+472,Captain Lawrence Brewing Co.,Hop Commander IPA,6.5
+473,Thirsty Dog Brewing Company,Citra Dog,6.5
+474,Founders Brewing Company,All Day IPA,4.7
+475,Founders Brewing Company,Centennial IPA,7.2
+476,Founders Brewing Company,Harvest Ale,7.6
+477,Founders Brewing Company,Azacca IPA,7
+478,Otter Creek Brewing,Free Flow IPA,6
+479,Saugatuck Brewing Company,Singapore IPA,7.2
+480,Minneapolis Town Hall Brewery,Masala Mama India Pale Ale,6
+481,Minneapolis Town Hall Brewery,Mango Mama,6
+482,Upland Brewing Company,Dragonfly IPA,6
+483,Asheville Brewing Company,Shiva IPA,6
+484,Goose Island Beer Co.,Rambler IPA,6.7
+485,Goose Island Beer Co.,Endless IPA,5
+486,Brasserie Dieu du Ciel!,Corne Du Diable,6.5
+487,North Coast Brewing Co.,ACME California IPA,6.9
+488,Foothills Brewing Company - Downtown Brewpub,Jade IPA,7.4
+489,Foothills Brewing Company - Downtown Brewpub,Hoppyum IPA,6.3
+490,Nickel Brook Brewing Co.,Headstock IPA,7
+491,Lazy Magnolia Brewing Company,Southern Hops’pitality,5.5
+492,Flying Monkeys Craft Brewery,Smashbomb Atomic IPA,6
+493,Caldera Brewing Company,Hopportunity Knocks,6.8
+494,Caldera Brewing Company,Caldera IPA,6.1
+495,Millstream Brewing Company,Iowa Pale Ale,5.7
+496,Sixpoint Brewery,Bengali,6.6
+497,East End Brewing Company,Big Hop,5.8
+498,Central City Brewers + Distillers,Red Racer IPA India Pale Ale,6.5
+499,Independence Brewing Co.,Stash IPA,7
+500,Left Coast Brewing Company,Trestles,6.8
